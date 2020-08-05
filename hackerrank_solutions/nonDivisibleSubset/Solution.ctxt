@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Solution
+comment1.params=arr
+comment1.target=int\ getMax(int[])
+comment2.params=arr
+comment2.target=int\ getMaxIndex(int[])
+comment3.params=k\ s
+comment3.target=int\ nonDivisibleSubset(int,\ java.util.List)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

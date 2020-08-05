@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Solution
+comment1.params=arr
+comment1.target=int\ nonZeroMin(int[])
+comment2.params=arr
+comment2.target=int[]\ cutTheSticks(int[])
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
